@@ -1,0 +1,2 @@
+# testergit
+setting git
